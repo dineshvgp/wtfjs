@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "boxen": "^1.1.0",
-    "chalk": "^1.1.1",
+    "chalk": "^2.0.0",
     "default-pager": "^1.1.0",
     "meow": "^3.7.0",
     "msee": "^0.3.3",
